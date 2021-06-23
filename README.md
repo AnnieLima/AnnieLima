@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnieLima
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on different project to amplify my knowledge 
+- 💞️ I’m looking to collaborate on different project to amplify my skills 
 - 📫 How to reach me annie.karolinelima@gmail.com
 
 <!---
